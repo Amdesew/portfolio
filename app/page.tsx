@@ -68,6 +68,9 @@ export default function Home() {
             <div>      
               <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Icon" width={"80"} height={"80"}/>
             </div>
+            <div>
+              <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Icon" width={"80"} height={"80"}/>
+            </div>
           </div>
 
           <h3 className="text-yellow-500 text-2xl py-10">Back End</h3>
