@@ -6,6 +6,7 @@ import myphoto from "@/public/p-Photoroom.png"
 import gmail from "@/public/gmail.jpg"
 import telegram from "@/public/telegram.png"
 import Link from "next/link";
+import Baks from "@/public/baks.jpg"
 
 export default function Home() {
   return (
@@ -175,7 +176,7 @@ export default function Home() {
 
       <div className="py-7">
         <div className="grid grid-cols-1 mx-auto max-w-lg justify-center py-5 gap-5 text-center bg-gray-500 px-10 rounded-2xl">
-            <Image src={abc} alt="icon" width={900} height={700} className="hover:opacity-70"/>
+            <Image src={Baks} alt="icon" width={900} height={700} className="hover:opacity-70"/>
             <p className="text-yellow-500 text-xl">Digital Driving School System</p>
             <a href="https://abcschool.pythonanywhere.com" className="text-black underline">https://seifu.netlify.app/🔗</a>
             <p>A Digital Driving School System That's Built To Register Students, To Show Results  To Teach Them Online Using Videos 
