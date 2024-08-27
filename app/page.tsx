@@ -178,7 +178,7 @@ export default function Home() {
         <div className="grid grid-cols-1 mx-auto max-w-lg justify-center py-5 gap-5 text-center bg-gray-500 px-10 rounded-2xl">
             <Image src={Baks} alt="icon" width={900} height={700} className="hover:opacity-70"/>
             <p className="text-yellow-500 text-xl">Digital Driving School System</p>
-            <a href="https://abcschool.pythonanywhere.com" className="text-black underline">https://seifu.netlify.app/🔗</a>
+            <a href="https://seifu.netlify.app/" className="text-black underline">https://seifu.netlify.app/🔗</a>
             <p>A Digital Driving School System That's Built To Register Students, To Show Results  To Teach Them Online Using Videos 
                Created For Teaching Purposes And Make The Whole Driving School Digital Using The Admin Site Above And This Public Site
             </p>
@@ -191,7 +191,7 @@ export default function Home() {
               <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Icon" width={"50"} height={"50"}/>
               <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain-wordmark.svg" alt="Icon" width={"50"} height={"50"}/>
             </div>
-            <a className="bg-yellow-600 px-10 py-3 rounded-full mx-auto" href="https://abcschool.pythonanywhere.com">Show Live</a>
+            <a className="bg-yellow-600 px-10 py-3 rounded-full mx-auto" href="https://seifu.netlify.app/">Show Live</a>
         </div>
       </div>
 
